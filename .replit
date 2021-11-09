@@ -1,0 +1,1 @@
+run="javac -cp .:./lib/* -d . Main.java AsteroidsGame.java; java -cp .:./lib/* Main"
