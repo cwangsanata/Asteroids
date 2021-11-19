@@ -10,5 +10,5 @@ Processing -> Java conversion done by Sean Fottrell (Thank you!).
 
 # Play Now!
 Using the arrow keys to control the ship and spacebar to shoot, play an iteration of class Asteroids fueled by
-caffeine and the regret of procrastination. 
+caffeine.
 
